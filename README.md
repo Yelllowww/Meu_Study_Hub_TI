@@ -47,10 +47,11 @@ Meu_Study_Hub_TI/
 │   ├── Projetos_Academicos/
 │   ├── Projetos_Pessoais/
 │   └── Certificados/
+├── 04_Documentacao/                    → guias de versionamento, colaboração e LinkedIn
 ├── assets/                             → CSS, JS e imagens do site
 ├── index.html                          → página inicial (GitHub Pages)
 ├── slides.html                         → apresentação do repositório
-├── CHANGELOG.md · LICENSE
+├── CHANGELOG.md · CONTRIBUTING.md · LICENSE
 ```
 
 ### Convenções de nomenclatura
@@ -72,8 +73,9 @@ O projeto segue **[Versionamento Semântico](https://semver.org/lang/pt-BR/)** e
 |---|---|
 | `v1.0.0` | Estrutura inicial do repositório + página web no GitHub Pages |
 | `v1.1.0` | Slides de apresentação do repositório |
+| `v1.2.0` | Guias de documentação, templates de colaboração, entregas do Bootcamp I e integração com LinkedIn |
 
-Fluxo de trabalho:
+Fluxo de trabalho (detalhado em [`04_Documentacao/Guia_de_Versionamento.md`](04_Documentacao/Guia_de_Versionamento.md)):
 
 ```text
 main ──●────────●──────────●───────── (sempre estável, publicada no Pages)
@@ -88,6 +90,7 @@ feature  ●──●─●    ●──●──●            (uma branch por 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
 | [Site do Study Hub](index.html) | Portfólio publicado com GitHub Pages | HTML, CSS, JavaScript |
+| [Slides](slides.html) | Apresentação navegável do repositório | HTML, CSS, JavaScript |
 | [Planejamento do Study Hub](02_Disciplinas_Atuais/Bootcamp_I/Atividades_e_Entregas/) | Fase 1 e Fase 2 do projeto integrador do Bootcamp I | Git, GitHub, Markdown |
 
 ---

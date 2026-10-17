@@ -18,4 +18,5 @@
 
 ## Arquivos
 
+- [`Documento_Base_Study_Hub.pdf`](Documento_Base_Study_Hub.pdf) — documento base (versão PDF)
 - [`Roteiro_Pitch.md`](Roteiro_Pitch.md) — roteiro do vídeo de 5 minutos
