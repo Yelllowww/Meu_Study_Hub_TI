@@ -14,11 +14,8 @@
 
 ## Biografia acadêmica
 
-> ✏️ *Rascunho — revisar e reescrever com as minhas próprias palavras antes da entrega.*
-
 Sou estudante de Ciência da Computação no período noturno. Meu interesse por tecnologia
-começou pela curiosidade em entender como o software conversa com o hardware — do código
-que roda em um microcontrolador até os pacotes que atravessam uma rede. No curso, busco
+começou pela curiosidade em como fazer aquilo que eu queria, com ela (várias ideias doidas de criança). No curso, busco
 unir a base teórica da computação com a prática de projetos reais. Neste semestre estou
 cursando disciplinas de Sistemas em Tempo Real e Embarcados, Testes e Qualidade de Software,
 Segurança Digital e Projeto Integrador, que reforçam meu interesse em construir sistemas
