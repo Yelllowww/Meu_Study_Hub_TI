@@ -49,6 +49,7 @@ Meu_Study_Hub_TI/
 │   └── Certificados/
 ├── assets/                             → CSS, JS e imagens do site
 ├── index.html                          → página inicial (GitHub Pages)
+├── slides.html                         → apresentação do repositório
 ├── CHANGELOG.md · LICENSE
 ```
 
@@ -70,6 +71,7 @@ O projeto segue **[Versionamento Semântico](https://semver.org/lang/pt-BR/)** e
 | Versão | Conteúdo |
 |---|---|
 | `v1.0.0` | Estrutura inicial do repositório + página web no GitHub Pages |
+| `v1.1.0` | Slides de apresentação do repositório |
 
 Fluxo de trabalho:
 
